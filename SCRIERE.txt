@@ -1,0 +1,2 @@
+['a', 'o', 'e', 'o', 'a', 'A', 'U', 'E', 'O', 'U', 'I']
+numarul de vocale= 11
